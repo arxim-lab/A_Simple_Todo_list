@@ -8,7 +8,9 @@
 
 下载Git目录中的[todo.sh](https://github.com/arxim-lab/A_Simple_Todo_list/raw/main/todo.sh)文件，放置到任意文件夹下。
 
-> 需要一个支持Bash的环境来运行这个脚本文件，比如任意的Linux发行版、MacOS、WSL、Git Bash等。~~尚未测试Windows PowerShell对脚本的兼容性~~
+> 需要一个支持Bash的环境来运行这个脚本文件，比如任意的Linux发行版、MacOS、WSL、Git Bash等。
+> 
+> ~~尚未测试Windows PowerShell对脚本的兼容性~~
 
 ### Usage
 
